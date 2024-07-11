@@ -1,0 +1,4 @@
+baseURL = 'https://Templethief.com'
+languageCode = 'en-us'
+title = 'Templethief'
+theme = 'PaperMod'
